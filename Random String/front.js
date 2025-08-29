@@ -1,7 +1,7 @@
 const { useState } = React;
 
 function Front() {
-  const themes = [
+  const themes = [ 
     { bg: "grey", text: "red" },
     { bg: "red", text: "grey" },
     { bg: "yellow", text: "green" },
